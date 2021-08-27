@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adaking-slack
-- 👀 I’m interested in ui/ux design
-- 🌱 I’m currently learning ui/ux design and web development
-- 💞️ I’m looking to collaborate on ui/ux and web development projects
+
+- 🌱 I’m currently learning frontend development 
+- 💞️ I’m looking to collaborate on frontend development projects
 - 📫 How to reach me emelikepatience961@gmail.com
 
 <!---
