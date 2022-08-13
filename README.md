@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi👋+and+welcome;I+am+Adaking,+a+Frontend developer+and+a+web3+enthuasiast;Second+line+of+text)](https://git.io/typing-svg)-
 
 
 🌱 I’m currently learning frontend development 
