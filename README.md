@@ -1,6 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?
-font=&pause=1000&color=C36EF7&background=6DFF9700&width=435&lines=Hi+there%F0%9F%91%8B;I+am+Adaking;Welcome+to+my+hub!)](https://git.io/typing-svg)
+[![Typing SVG](https://evening-atoll-25136.herokuapp.com?font=Fira+Code&pause=1000&color=AD42F7&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+Adaking;Welcome+to+my+hub!)](https://git.io/typing-svg)
 
 
 🌱 I’m currently learning frontend development 
