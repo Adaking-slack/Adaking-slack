@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Adaking-slack
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 - 🌱 I’m currently learning frontend development 
 - 💞️ I’m looking to collaborate on frontend development projects
 - 📫 How to reach me emelikepatience961@gmail.com
