@@ -1,3 +1,7 @@
+<p align="left"> <a href="https://twitter.com/Adazoee" target="blank"><img src="https://img.shields.io/twitter/follow/adazoee?logo=twitter&style=for-the-badge" alt="Emelike_adaeze" /></a> </p>
+
+
+
 -👋hello there
 
 -👩I am Adaking
